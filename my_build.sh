@@ -59,6 +59,7 @@ cd -
 source ~/.zshrc
 
 # valle
-git clone https://github.com/lifeiteng/valle.git
+git clone https://github.com/salaxieb/valle.git
 cd valle
+git checkout "Build_debug"
 pip install -e .
